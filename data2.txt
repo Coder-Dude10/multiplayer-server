@@ -1,1 +1,0 @@
-{"username":"Banana #2", "avatar":"https://i5.walmartimages.com/asr/f7b268e7-6e55-418f-839f-89d0065b47dc.55f9ec9ec4d7e57806f08c8ebac80ad2.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF", "correct":"false", "answer":"N/A", "time":"0"}
